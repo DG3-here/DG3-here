@@ -7,8 +7,7 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ---
 
-## 📊 About Me
-
+### 📊 About Me
 - 🎓 B.Tech student at **UPES, Dehradun**
 - 📈 Aspiring **Data Analyst / Data Scientist**
 - 🔍 Interested in extracting insights from real-world data
@@ -16,28 +15,27 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 **Core Skills**  
 Python • SQL • Power BI • Tableau  
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="34"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="28"/>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="26"/>
 </p>
-
-
 
 **Analytics & Visualization**  
 Pandas • NumPy • Matplotlib • Seaborn • Excel
 
-
 ---
 
-## 📁 Projects
-
+### 📁 Projects
 - 📊 **Data Analysis Projects**  
   Exploratory Data Analysis (EDA), data cleaning, visualization, and insights
 
@@ -52,27 +50,19 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ---
 
-## 🌱 Currently Learning
-
+### 🌱 Currently Learning
 - Advanced **Data Analysis techniques**
 - **Machine Learning fundamentals**
 - **DSA** for analytical thinking
 
 ---
 
-
----
-
-## 🔗 Connect with Me
-
+### 🔗 Connect with Me
 💼 **LinkedIn:** https://linkedin.com/in/divyanshgarg3/  
 🧑‍💻 **Mail:** divyanshgarg455@gmail.com
-
-
 
 ---
 
 <p align="center">
 <i>Without data, opinions are just noise.</i>
 </p>
-  
