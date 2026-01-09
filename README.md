@@ -71,7 +71,6 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ## 🔗 Connect with Me
 
-## 🔗 Connect with Me
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>
