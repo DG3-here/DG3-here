@@ -25,8 +25,6 @@ Python • SQL • Power BI • Tableau
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28"/>&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="34"/>&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg" height="26"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tableau.svg" height="26"/>&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="28"/>
 </p>
 
@@ -71,10 +69,16 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/divyanshgarg3  
-- 🧑‍💻 GitHub: https://github.com/DivyanshGarg  
+<p align="left">
+  <a href="https://linkedin.com/in/divyanshgarg3" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:divyanshgarg455@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26"/>
+  </a>
+</p>
 
 ---
 
