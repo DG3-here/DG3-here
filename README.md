@@ -17,7 +17,7 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ### 🧰 Tech Stack
 
-> **Core Skills**  
+#### **Core Skills**  
 > Python • SQL • Power BI • Tableau  
 
 <p>
@@ -30,7 +30,7 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 </p>
 
-> **Analytics & Visualization**  
+#### **Analytics & Visualization**  
 > Pandas • NumPy • Matplotlib • Seaborn • Excel
 ---
 
