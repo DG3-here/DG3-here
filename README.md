@@ -71,9 +71,8 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ## 🔗 Connect with Me
 
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" style="vertical-align: middle;" /> – [https://www.linkedin.com/in/divyanshgarg3/](https://www.linkedin.com/in/divyanshgarg3/)
-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="20" style="vertical-align: middle;" /> – divyanshgarg455@gmail.com
+💼 **LinkedIn:** https://linkedin.com/in/divyanshgarg3/  
+🧑‍💻 **Mail:** divyanshgarg455@gmail.com
 
 
 
