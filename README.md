@@ -62,8 +62,6 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ## 📈 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DG3-here&show_icons=true&theme=react&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG3-here&layout=compact&theme=react&hide_border=true" height="160"/>
@@ -84,3 +82,4 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 <p align="center">
 <i>Without data, opinions are just noise.</i>
 </p>
+  
