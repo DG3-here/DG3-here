@@ -71,14 +71,22 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ## 🔗 Connect with Me
 
+## 🔗 Connect with Me
+
 <p align="left">
-  <a href="https://linkedin.com/in/divyanshgarg3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="26"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:divyanshgarg455@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20"/>
+  <a href="https://www.linkedin.com/in/divyanshgarg3/" target="_blank">
+    https://www.linkedin.com/in/divyanshgarg3/
   </a>
 </p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="20"/>
+  <a href="mailto:divyanshgarg455@gmail.com">
+    divyanshgarg455@gmail.com
+  </a>
+</p>
+
 
 ---
 
