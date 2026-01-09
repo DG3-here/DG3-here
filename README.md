@@ -19,7 +19,7 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 
 **Core Skills**
-   Python • SQL • Power BI • Tableau  
+Python • SQL • Power BI • Tableau  
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
