@@ -60,12 +60,6 @@ Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DG3%2Dhere&show_icons=true&theme=react&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DG3%2Dhere&layout=compact&theme=react&hide_border=true" height="160" />
-</p>
 
 ---
 
