@@ -18,17 +18,19 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ## 🧰 Tech Stack
 
+**Core Skills**  
+Python • SQL • Power BI • Tableau  
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48"/>
-  <img src="https://skillicons.dev/icons?i=excel&theme=dark" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="26"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="26"/>
 </p>
 
-**Libraries & Tools**  
-Pandas • NumPy • Matplotlib • Seaborn • Power BI (basic)
+**Analytics & Visualization**  
+Pandas • NumPy • Matplotlib • Seaborn • Excel
 
 ---
 
