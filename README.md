@@ -15,10 +15,9 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-
-**Core Skills**
+#### Core Skills
 Python • SQL • Power BI • Tableau  
 
 <p>
@@ -31,8 +30,9 @@ Python • SQL • Power BI • Tableau
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" height="26"/>
 </p>
 
-**Analytics & Visualization**  
-   Pandas • NumPy • Matplotlib • Seaborn • Excel
+#### Analytics & Visualization
+Pandas • NumPy • Matplotlib • Seaborn • Excel
+
 
 
 ---
