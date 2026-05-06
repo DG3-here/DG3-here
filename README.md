@@ -37,18 +37,43 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ---
 
-### 📁 Projects
-- 📊 **Data Analysis Projects**  
-  Exploratory Data Analysis (EDA), data cleaning, visualization, and insights
+## 📂 Projects
 
-- ⚖️ **Law Connect**  
-  Database design and data handling for a legal assistance platform
+### 📊 Data Analysis Projects
+Projects focused on data cleaning, EDA, visualization, analytics pipelines, dashboards, and insight generation using Python, SQL, Pandas, Power BI, and automation workflows.
 
-- 🤝 **Share n Care**  
-  Community-based resource sharing application (logic & data-focused)
+- **B2B Market Intelligence ETL Pipeline**  
+  End-to-end competitor analytics pipeline integrating web scraping, automated data cleaning, sentiment analysis, database storage, and dashboard visualization.
 
-- 🎯 **Career Craft**  
-  Career guidance & skill-mapping project focused on analytics-driven decision making
+- **Share n Care**  
+  Resource recommendation and usage analysis platform with trend tracking and Power BI reporting.
+
+- **Law Connect**  
+  Legal consultation platform focused on structured database management and legal data analysis.
+
+---
+
+### 🩺 IBM Data Science Project
+Healthcare-focused analytical and machine learning work completed during IBM internship experience.
+
+- **Early Diabetes Detection**  
+  ML-based healthcare analysis project involving preprocessing, EDA, visualization, and predictive modeling using health datasets.
+
+---
+
+### 🤖 Machine Learning Projects
+Projects involving model training, prediction systems, feature engineering, and intelligent recommendations.
+
+- **Plugo – Smart EV Charging Station Recommendation System**  
+  Machine learning-based EV charging recommendation platform using Random Forest, APIs, Flask, and real-time station analytics across 800+ charging stations.
+
+---
+
+### 💻 Full Stack Projects
+Projects combining frontend/backend development, databases, APIs, and application logic.
+
+- **Career Craft**  
+  Career guidance and skill-mapping platform focused on analytics-driven career recommendations and profile analysis.
 
 ---
 
