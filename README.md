@@ -9,7 +9,7 @@ Data-driven thinking • Analytical problem solving • Continuous learning
 
 ### 📊 About Me
 - 🎓 B.Tech student at **UPES, Dehradun**
-- 📈 Aspiring **Data Analyst / Data Scientist**
+- 📈 Aspiring **Data Analyst / ML Engineer**
 - 🔍 Interested in extracting insights from real-world data
 - 🧠 Strong focus on fundamentals, logic, and clarity
 
@@ -53,7 +53,7 @@ Projects focused on data cleaning, EDA, visualization, analytics pipelines, dash
 
 ---
 
-## 🩺 IBM Data Science Project
+### 🩺 IBM Data Science Project
 Healthcare-focused analytical and machine learning work completed during IBM internship experience.
 
 - **Early Diabetes Detection**  
