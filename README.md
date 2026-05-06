@@ -53,7 +53,7 @@ Projects focused on data cleaning, EDA, visualization, analytics pipelines, dash
 
 ---
 
-### 🩺 IBM Data Science Project
+## 🩺 IBM Data Science Project
 Healthcare-focused analytical and machine learning work completed during IBM internship experience.
 
 - **Early Diabetes Detection**  
